@@ -30,7 +30,7 @@ california-housing-price-prediction/
 │
 ├── README.md
 ├── requirements.txt
-└── .gitignore
+
 ```
 
 ---
