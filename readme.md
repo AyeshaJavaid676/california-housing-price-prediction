@@ -23,7 +23,7 @@ A supervised machine learning project by **Ayesha Javaid** — predicting Califo
 california-housing-price-prediction/
 │
 ├── notebooks/
-│   └── MultipleLinearRegression_CreatingDataPipelines.ipynb
+│   └── California_housing_price__prediction.ipynb.ipynb
 │
 ├── data/
 │   └── housing.csv                  # California Housing dataset
