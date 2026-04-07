@@ -139,7 +139,7 @@ This ensures the **same transformations** are applied consistently to both train
 
 ### Option 1 — Google Colab (Recommended)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AyeshaJavaid676/california-housing-price-prediction/blob/main/notebooks/MultipleLinearRegression_CreatingDataPipelines.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AyeshaJavaid676/california-housing-price-prediction/blob/main/notebook/California_housing_price__prediction.ipynb.ipynb)
 
 > Upload `housing.csv` to your Colab session or place it in the same directory.
 
