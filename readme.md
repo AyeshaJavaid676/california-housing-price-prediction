@@ -137,24 +137,13 @@ This ensures the **same transformations** are applied consistently to both train
 
 ## 🚀 How to Run
 
-### Option 1 — Google Colab (Recommended)
+###  Google Colab 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AyeshaJavaid676/california-housing-price-prediction/blob/main/notebook/California_housing_price__prediction.ipynb.ipynb)
 
 > Upload `housing.csv` to your Colab session or place it in the same directory.
 
-### Option 2 — Run Locally
 
-```bash
-# 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/california-housing-price-prediction.git
-cd california-housing-price-prediction
-
-# 2. Install dependencies
-pip install -r requirements.txt
-
-# 3. Launch Jupyter
-jupyter notebook notebooks/MultipleLinearRegression_CreatingDataPipelines.ipynb
 ```
 
 ---
